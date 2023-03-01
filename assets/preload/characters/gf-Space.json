@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle left",
+			"indices": [],
+			"name": "GF_Space idle_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle right",
+			"indices": [],
+			"name": "GF_Space idle_right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn Left",
+			"indices": [],
+			"name": "GF_Space turn_left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn right",
+			"indices": [],
+			"name": "GF_Space turn_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_Space",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

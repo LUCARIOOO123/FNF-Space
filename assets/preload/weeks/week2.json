@@ -1,0 +1,68 @@
+{
+	"storyName": "pt2 bitches",
+	"difficulties": "Hard,Mania",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"soaring",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stellar",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"astral",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"total-eclipse",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"luna",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"menuspace",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

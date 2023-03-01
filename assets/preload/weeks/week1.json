@@ -1,0 +1,59 @@
+{
+	"storyName": "its just me bruh ;-;",
+	"difficulties": "Hard,Mania",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"outerspace",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"zero gravity",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"facility",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"visionary",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"menuSpace",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Weeek"
+}

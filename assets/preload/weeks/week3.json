@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard,mania",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"shooting-star",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"andromeda",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cosmo-frenzy",
+			"space",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"menuspace",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
