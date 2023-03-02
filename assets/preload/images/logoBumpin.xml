@@ -1,7 +1,37 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="logoBumpin.png">
-<SubTexture name="logo bump idle0000" x="853" y="873" width="845" height="829" frameX="-74" frameY="-53" frameWidth="1013" frameHeight="950" />
-<SubTexture name="logo bump idle0001" x="0" y="0" width="890" height="873" frameX="-50" frameY="-30" frameWidth="1013" frameHeight="950" />
-<SubTexture name="logo bump idle0002" x="890" y="0" width="879" height="863" frameX="-56" frameY="-35" frameWidth="1013" frameHeight="950" />
-<SubTexture name="logo bump idle0003" x="0" y="873" width="853" height="837" frameX="-70" frameY="-49" frameWidth="1013" frameHeight="950" />
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Space0000" x="0" y="0" width="964" height="917" frameX="-28" frameY="-87" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0001" x="0" y="0" width="964" height="917" frameX="-28" frameY="-87" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0002" x="964" y="0" width="948" height="920" frameX="-36" frameY="-83" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0003" x="964" y="0" width="948" height="920" frameX="-36" frameY="-83" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0004" x="1912" y="0" width="955" height="926" frameX="-32" frameY="-75" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0005" x="2867" y="0" width="977" height="943" frameX="-21" frameY="-55" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0006" x="2867" y="0" width="977" height="943" frameX="-21" frameY="-55" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0007" x="3844" y="0" width="1007" height="978" frameX="-6" frameY="-30" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0008" x="4851" y="0" width="1015" height="989" frameX="-3" frameY="-17" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0009" x="5866" y="0" width="1021" height="996" frameX="0" frameY="-6" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0010" x="6887" y="0" width="1020" height="1000" frameX="-3" frameY="0" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0011" x="0" y="1000" width="1008" height="986" frameX="-8" frameY="-3" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0012" x="0" y="1000" width="1008" height="986" frameX="-8" frameY="-3" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0013" x="1008" y="1000" width="987" height="962" frameX="-19" frameY="-11" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0014" x="1008" y="1000" width="987" height="962" frameX="-19" frameY="-11" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0015" x="1008" y="1000" width="987" height="962" frameX="-19" frameY="-11" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0016" x="1995" y="1000" width="963" height="934" frameX="-29" frameY="-23" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0017" x="1995" y="1000" width="963" height="934" frameX="-29" frameY="-23" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0018" x="2958" y="1000" width="945" height="918" frameX="-37" frameY="-38" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0019" x="3903" y="1000" width="957" height="937" frameX="-31" frameY="-22" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0020" x="3903" y="1000" width="957" height="937" frameX="-31" frameY="-22" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0021" x="4860" y="1000" width="982" height="911" frameX="-19" frameY="-52" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0022" x="5842" y="1000" width="990" height="911" frameX="-15" frameY="-59" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0023" x="5842" y="1000" width="990" height="911" frameX="-15" frameY="-59" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0024" x="6832" y="1000" width="1015" height="912" frameX="-3" frameY="-66" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0025" x="0" y="1986" width="1020" height="912" frameX="0" frameY="-76" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0026" x="0" y="1986" width="1020" height="912" frameX="0" frameY="-76" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0027" x="1020" y="1986" width="1015" height="916" frameX="-3" frameY="-77" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0028" x="1020" y="1986" width="1015" height="916" frameX="-3" frameY="-77" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0029" x="2035" y="1986" width="1002" height="908" frameX="-9" frameY="-87" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0030" x="3037" y="1986" width="986" height="909" frameX="-17" frameY="-92" frameWidth="1023" frameHeight="1008"/>
+	<SubTexture name="Space0031" x="3037" y="1986" width="986" height="909" frameX="-17" frameY="-92" frameWidth="1023" frameHeight="1008"/>
 </TextureAtlas>
